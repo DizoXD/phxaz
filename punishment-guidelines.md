@@ -21,7 +21,7 @@
 | ALT Account                               | Permanent Ban (the alt)                                                    | N/A           | N/A      | N/A               |
 | Respawning without proper reason          | Warning                                                                    | Warning       | Kick     | 7 Day Ban         |
 | Fear RP                                   | Warning                                                                    | Warning       | Kick     | 7 Day Ban         |
-| Being a Troll                             | 7 Day Ban                                                                  | Permanent Ban | N/A      |                   |
+| Being a Troll                             | 7 Day Ban                                                                  | Permanent Ban | N/A      | N/A               |
 
 _Note that everything above are guidelines, punishments should always fit the situation._&#x20;
 
@@ -29,5 +29,6 @@ _Note that everything above are guidelines, punishments should always fit the si
 
 These are both for ER:LC and Discord.\
 3 Warnings -> Kick\
+Rejoining within 1 hour after a kick - 7 Day Ban\
 2 Kicks -> 7 Day Ban\
 Kick after Unban -> Permanent Ban
