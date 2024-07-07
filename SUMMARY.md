@@ -6,3 +6,4 @@
 * [Chain of Command](chain-of-command.md)
 * [Commands](commands.md)
 * [Punishment Guidelines](punishment-guidelines.md)
+* [H & M Commands](h-and-m-commands.md)
