@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Phoenix Arizona Staff Panel](README.md)
-* [Guidelines](guidelines.md)
-* [Restricted Items](restricted-items.md)
-* [Chain of Command](chain-of-command.md)
-* [Commands](commands.md)
-* [Punishment Guidelines](punishment-guidelines.md)
-* [H & M Commands](h-and-m-commands.md)
+* [About Us](README.md)
+
+## Regulations
+
+* [Discord Regulations](regulations/discord-regulations.md)
+* [In-Game Regulations](regulations/in-game-regulations.md)

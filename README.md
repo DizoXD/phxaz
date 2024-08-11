@@ -1,24 +1,31 @@
 ---
-description: >-
-  This website contains all the information you need for the proper conduct of
-  all staff members. It is crucial to read this website thoroughly to ensure a
-  complete understanding of the proper conduct.
+icon: hand-wave
+cover: .gitbook/assets/Screenshot_2024-05-24_093128.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Phoenix Arizona Staff Panel
+# About Us
 
-### The meaning of a Staff Member
+Welcome to **Phoenix Arizona**, where imagination meets reality! We are a vibrant and immersive roleplay community that offers players a unique space to dive into their fantasies, craft compelling stories, and connect with others who share their passion for creativity and adventure.
 
-> Remember that this information is for your benefit. It is important to read it carefully to avoid the risk of losing your position or being infracted. The three key responsibilities of a staff member are helping, motivating, and sharing with others. Keep in mind that being a staff member comes with additional duties that you are obligated to fulfil, as joining us was your choice.
+### Our Story
 
-### How a Staff Member should act
+Founded in **2024**, **Phoenix Arizona** was created by a group of passionate roleplayers who wanted to build a space where people could come together to explore diverse storylines and create memorable characters. From humble beginnings, we have grown into a thriving community that spans multiple genres and playstyles, from fantasy and sci-fi to modern and historical settings.
 
-> As a staff member of our team, you must act in a professional manner at all times. This includes being understanding, calm, sensible, reasonable, skillful, social, and mature.
+### Our Mission
 
-### The task of a Staff Member
-
-> The moderation, administration, and supervision teams are responsible for enforcing the rules both inside and outside the server. Each role has distinct tasks, and with more roles comes greater control as well as increased responsibility. We ensure that the rules outlined in our documents and on our rule boards are followed. Our role includes identifying rule-breakers and ensuring they face appropriate consequences. Additionally, we strive to create a comfortable environment for all members of our server.
-
-### What our community is looking for
-
-> We aim to create a space where our most professional members can enjoy a seamless role-playing experience on a server committed to excellence. We support members in joining a vibrant new community, providing them with communication channels, assistance through support tickets, and the freedom to share their ideas via suggestions, among other things.
+At **Phoenix Arizona**, our mission is simple: to provide a fun, inclusive, and engaging environment where everyone can express themselves through roleplay. We strive to foster a community where creativity knows no bounds, and where every member feels valued and respected.
